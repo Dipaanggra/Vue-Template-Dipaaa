@@ -10,11 +10,11 @@ export const useStockStore = defineStore('stock', () => {
     },
     {
       name: 'Kopi',
-      qty: 5
+      qty: 10
     },
     {
       name: 'Gula',
-      qty: 5
+      qty: 10
     }
   ])
 

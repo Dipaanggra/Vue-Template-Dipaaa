@@ -10,7 +10,7 @@ const store = useStockStore()
     <div class="border rounded-lg">
       <table class="w-full table-auto">
         <!-- table Head -->
-        <tr class="bg--gray-100 border-b">
+        <tr class="bg-gray-100 border-b">
           <td class="px-5 py-2 font-semibold">NAME</td>
           <td class="px-5 py-2 font-semibold">QUANTITY</td>
           <td class="px-5 py-2 font-semibold ">ACTION</td>

@@ -6,7 +6,7 @@ const store = useStockStore()
 
 <template>
   <div>
-    <p class="pb-3">Stock Management With Pinia</p>
+    <p class="pb-3">Stock Management</p>
     <div class="border rounded-lg">
       <table class="w-full table-auto">
         <!-- table Head -->
